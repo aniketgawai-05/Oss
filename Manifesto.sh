@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script 5: The Open Source Manifesto Generator
-# Author: UDAYRAJ PATIL
-# Registration: 24BCE11159
+# Author: Aniket Gawai
+# Registration: 24BCE11368
 # Course: Open Source Software
 # Description: Interactively generates a personal FOSS manifesto
 #              based on three user inputs and saves it to a .txt file.
